@@ -2,7 +2,6 @@
 
 Hi, I'm Daniela Martinez, a Data Scientist with a background in GIS analysis, natural resources management, and land administration, and a passion for data science and machine learning, I believe that integrating GIS and Data Science methodologies can lead to impactful societal changes. I am eager to apply these skills to drive meaningful progress in this evolving field.
 
-###💼 **Professional Background**
 ### 💼 <span style="font-size:24px;">Professional Background</span>
 
 
@@ -12,7 +11,7 @@ Hi, I'm Daniela Martinez, a Data Scientist with a background in GIS analysis, na
 
 - **Projects & Achievements**: identified the most vulnerable areas prone to contamination by vinasse in underground water and established various levels of protection in natural resource management across specific areas spanning over 20,000 hectares and developed a machine learning model using various algorithms to classify wine quality, aiming to enhance consumer experiences and promote informed wine consumption. My role included model selection, evaluation, and addressing class imbalance to improve accuracy and precision in the classification.
 
-🛠 ### **Technical Skills**
+### 🛠  **Technical Skills**
 
 - **ArcGis**: experienced in generating maps, performing spatial analysis, and managing geospatial data.
 - **SQL**: skilled in data querying and manipulation.
