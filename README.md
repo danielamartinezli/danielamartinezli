@@ -19,10 +19,10 @@ Hi, I'm Daniela Martinez, a Data Scientist with a background in GIS analysis, na
 - **R**: capable in statistical analysis and data visualization.
 - **Tableau**: experienced in creating insightful visual analytics.
 
-### ⚡ **Passions**: 
+### ⚡ **Passions**
 Nature, rock climbing and the insights numbers provide!
 
-### 🔍 **Interests**:
+### 🔍 **Interests**
 I am open to contributing to projects or ideas in data science and sustainability, particularly in environmental issues, social causes, or finance.
 
 ### 📫 **Connect with Me!**
