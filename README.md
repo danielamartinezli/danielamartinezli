@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile 👋
 
-Hi, I'm Daniela Martinez, a Data Scientist with a background in GIS analysis, natural resources management, and land administration and a passion for data science and machine learning, I believe that integrating GIS and Data Science methodologies can lead to impactful societal changes. I am eager to apply these skills to drive meaningful progress in this evolving field.
+Hi, I'm Daniela Martinez, a Data Scientist with a background in GIS analysis, natural resources management, and land administration, and a passion for data science and machine learning, I believe that integrating GIS and Data Science methodologies can lead to impactful societal changes. I am eager to apply these skills to drive meaningful progress in this evolving field.
 
 💼 ### **Professional Background**
 
